@@ -1,0 +1,3 @@
+::sysinit:/init
+::respawn:/bin/sh
+::ctrlaltdel:/sbin/reboot
