@@ -1,0 +1,5 @@
+# Ceder Linux kernel configuration
+CONFIG_64BIT=y
+CONFIG_X86_64=y
+CONFIG_PRINTK=y
+CONFIG_BINFMT_ELF=y
